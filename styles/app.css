@@ -32,7 +32,7 @@ body {
 
 img {
   max-width: 100%;
-  break-after: column;
+  
   vertical-align: middle;
 }
 

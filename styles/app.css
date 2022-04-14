@@ -47,6 +47,7 @@ h1 {
 h2 {
   color: #00adb5;
   font-size: 1.5em;
+  break-before: column;
 }
 
 .tabs {
